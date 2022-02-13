@@ -81,9 +81,8 @@ This project are created for using as template for others repository.
 
 <!-- SCREENSHOTS -->
 ## 📸  SCREENSHOTS <a name="screenshots"></a>
-<!-- 
-<img src="https://github.com/PaoloProdossimoLopes/swift-stock-market-app-demo/blob/main/README_ASSETS/SIMULADOR_LOADER.png" height="300">                       <img src="https://github.com/PaoloProdossimoLopes/swift-stock-market-app-demo/blob/main/README_ASSETS/SIMULADOR_HOME.png" height="300">                               
--->
+<img src="https://github.com/PaoloProdossimoLopes/swift-stock-market-app-demo/blob/main/README_ASSETS/SCREENSHOTS/HOME.png" height="300">                       <img src="https://github.com/PaoloProdossimoLopes/swift-stock-market-app-demo/blob/main/README_ASSETS/SCREENSHOTS/FIND-STOCK.png" height="300">                 <img src="https://github.com/PaoloProdossimoLopes/swift-stock-market-app-demo/blob/main/README_ASSETS/SCREENSHOTS/STOCK-DETAIL.png" height="300">  
+
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
 
@@ -99,9 +98,13 @@ This project are created for using as template for others repository.
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/swift-stock-market-app-demo.git
+  git clone https://github.com/PaoloProdossimoLopes/swift-stock-market-app-demo.git
 ```
-3. Open the file with extension .xcodeproj inside the folder project.
+3. Inside the app folder (there are Podfile) so run this command to install dependencies.
+```sh
+  pod install
+```
+5. Open the file with extension **.xcworkspace** inside the folder project.
    
 ### RUN
 So that you can run the project follow this steps:
