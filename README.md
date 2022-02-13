@@ -92,6 +92,7 @@ This project are created for using as template for others repository.
 
 ### PREREQUISITES 
 - Swift 4+
+- CocoaPods 1.11.2
 - Xcode 10+
 
 ### INSTALATION
